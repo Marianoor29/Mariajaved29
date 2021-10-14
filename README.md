@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mariajaved29
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning react native
+- 🌱 I’m currently learning react and react native
 - 📫 reach me on mariajaved722@gmail.com
 
 <!---
