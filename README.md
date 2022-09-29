@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mariajaved29
+- 👋 Hi, I’m @Marianoor29
 - 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning react and react native
 - 📫 reach me on marianoormuhammad10@gmail.com
