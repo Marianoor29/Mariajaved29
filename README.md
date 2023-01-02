@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marianoor29
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning react and react native
+- 👀 I’m a Mobile Application Developer
+- 🌱 I’m currently working as a react native developer
 - 📫 reach me on marianoormuhammad10@gmail.com
 
 <!---
